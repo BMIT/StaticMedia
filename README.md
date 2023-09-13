@@ -1,0 +1,2 @@
+# StaticMedia
+Media Assets
